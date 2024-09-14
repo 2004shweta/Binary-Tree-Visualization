@@ -31,4 +31,4 @@
 
 Binary tree visualization is a valuable tool for both learning and practical application, offering a visual approach to understanding the complex structures and operations of binary trees.
 LINK
-https://66e5775a7537c44a7d041076--courageous-cupcake-18b1e9.netlify.app
+https://treevisualization.netlify.app/
